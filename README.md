@@ -41,17 +41,24 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
 5.	For different input combinations generate the timing diagram
    
 **Program:**
-
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: SARANYA S
+RegisterNumber:212223110044
+*/
+```
 
 **RTL Schematic**
+![image](https://github.com/srisrisaranya/Project-Based-Experiment/assets/148516638/5a506d5d-3b06-408c-aab0-e1ca11733905)
+
 
 **Output Timing Waveform**
+![image](https://github.com/srisrisaranya/Project-Based-Experiment/assets/148516638/31e62813-1f86-4cb2-a640-852b982f93a7)
+
 
 **Result:**
-
+Thus the design and simulate the traffic light controller are successfullt executed.
 
 
 
